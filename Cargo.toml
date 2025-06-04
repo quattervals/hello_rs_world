@@ -1,0 +1,9 @@
+[package]
+name = "hello-world-rs"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A simple Hello World application in Rust for Yocto"
+repository = "https://github.com/quattervals/hello_rs_world"
+
+[dependencies]
